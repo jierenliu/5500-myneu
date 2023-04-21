@@ -13,6 +13,12 @@ import com.example.myneu.Fragments.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 
+/** references:
+ [1] Instagram-UI-Android: https://github.com/usman18/Instagram-UI-Android
+ [2] Android-N-developer-Course:https://github.com/Ashleshk/Android-N-developer-Course
+ [3] Instagram-Prototype: https://github.com/shubhamsawantsjsu/Instagram-Prototype
+ [4] Socialise: https://github.com/PrashantAmoli/Socialise **/
+
 public class MainActivity extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
 
